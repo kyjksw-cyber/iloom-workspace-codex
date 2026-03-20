@@ -1,0 +1,5 @@
+# Codex CLI Configuration
+# https://github.com/openai/codex
+
+# 기본 모델 설정
+model = "o4-mini"
