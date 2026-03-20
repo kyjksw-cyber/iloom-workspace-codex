@@ -1,6 +1,6 @@
 # iloom-workspace
 
-> 일룸 마케팅팀 AI 전환(AX) 워크스페이스
+> 일룸 영업효율개선팀 AI 전환(AX) 워크스페이스
 
 ---
 
@@ -71,7 +71,7 @@ iloom-workspace/
 
 ## 문의
 
-AX 컨설팅: 이림 (Do Better Things)
+AX 담당: 김선우 (영업효율개선팀)
 
 ---
 

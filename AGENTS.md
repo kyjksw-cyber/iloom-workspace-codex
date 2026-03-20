@@ -1,4 +1,4 @@
-# AGENTS.md - 일룸 마케팅팀 워크스페이스
+# AGENTS.md - 일룸 영업효율개선팀 워크스페이스
 
 > AI 챔피언 양성을 위한 실무 워크스페이스 (Codex CLI 버전)
 
@@ -16,8 +16,8 @@
 
 ## 프로젝트 개요
 
-**목표**: 일룸 마케팅팀 AI 전환 (AX)
-**대상**: 마케팅팀, 고문정팀, 브경디팀 (30-40명)
+**목표**: 일룸 영업효율개선팀 AI 전환 (AX)
+**대상**: 영업효율개선팀 (마케팅, 고문정, 브경디)
 **핵심 철학**: "기록이 목표가 되면 일이 돼버려요. 일의 부산물로 알아서 나오게 하는 게 핵심."
 
 ---
@@ -299,10 +299,10 @@ iloom-workspace-codex/
 
 ## 연락처
 
-**AX 컨설팅**: 이림 (Do Better Things)
+**AX 담당**: 김선우 (영업효율개선팀)
 - 슬랙/이메일로 질문
 - 오피스아워: TBD
 
 ---
 
-*iloom-workspace-codex v1.0 | Do Better Things x iloom AX Consulting*
+*iloom-workspace-codex v1.0 | iloom 영업효율개선팀 AX*

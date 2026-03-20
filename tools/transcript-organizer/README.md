@@ -217,5 +217,5 @@ Claude:
 ---
 
 **Created**: 2025-11-01
-**Author**: Claude Code + 이림
+**Author**: Claude Code + 김선우
 **License**: Personal Use
